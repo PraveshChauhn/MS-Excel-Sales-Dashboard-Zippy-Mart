@@ -1,18 +1,1 @@
-#MS Excel Sales Dashboard - Zippy Mart
-
-##Overview
-An interactive Microsoft Excel sales dashboard designed to analyze performance, track key metrics, and extract business insights for Zippy Mart.
-
-## Key Features
-* **Sales & Revenue Analysis:** Visual breakdown of total sales, profit margins, and performance trends over time.
-* **Customer Demographics:** Insights into customer purchasing behaviors and market segments.
-* **Product Performance:** Top-selling items, product category breakdowns, and inventory performance.
-* **Interactive Controls:** Slicers and dynamic visual charts for real-time data filtering.
-
-## Tech Stack
-* **Tool:** Microsoft Excel (Pivot Tables, Advanced Formulas, Dynamic Charts, Slicers)
-
-## How to Use
-1. Download or clone the repository.
-2. Open `MS-Excel-Sales-Dashboard-Zippy-Mart.xlsx` in Microsoft Excel.
-3. Use the interactive slicers to filter data by date, category, or region.
+# MS Excel
